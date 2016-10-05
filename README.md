@@ -28,7 +28,7 @@ node beeops.js
 Later we operate with the bot from Slack as if another user.
 
 
-## Añadido al Bot
+## Bot extension
 
 The bot uses "Incoming WebHooks" for communication between systems and the bot itself.
 The operation is very basic, it consists of a JSON POST where the parameters and message are definene:
@@ -69,8 +69,4 @@ send_msg $rcText
 rcText=$$" PID DELETE"
 send_msg $rcText
 
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> master
