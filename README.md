@@ -69,4 +69,8 @@ send_msg $rcText
 rcText=$$" PID DELETE"
 send_msg $rcText
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> master
