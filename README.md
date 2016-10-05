@@ -1,7 +1,6 @@
 # [BeeOps](http://www.beeva.com) - An Operator Bot for SysAdmins =)
 
 [![npm](https://img.shields.io/npm/v/botkit.svg)](https://www.npmjs.com/package/botkit)
-[![AlejandroSL](https://img.shields.io/david/howdyai/botkit.svg)](https://www.beeva.com)
 [![npm](https://img.shields.io/npm/l/botkit.svg)](https://spdx.org/licenses/MIT)
 
 BeeOps es un roBot basado en Botkit para ayudar a los administradores de sistemas en sus tareas del día a día como es la monitorización, gestión y tareas repetitivas en difinitiva, el bot ha sido integrado con [Slack](http://slack.com) inicialmente, como interfaz de conversación con el Bot pero puede integrarse y trabajar con [Facebook Messenger](http://facebook.com), [Twilio IP Messaging](https://www.twilio.com/docs/api/ip-messaging), y otras plataformas.
