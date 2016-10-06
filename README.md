@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/botkit.svg)](https://www.npmjs.com/package/botkit)
 [![npm](https://img.shields.io/npm/l/botkit.svg)](https://spdx.org/licenses/MIT)
 
-BeeOps is based on Botkit to help system administrators in their daily tasks such as monitoring, management and repetitive tasks, the bot robot has been integrated with [Slack](http://slack.com) initially as interface conversation with the bot but can integrate and work with [Facebook Messenger](http://facebook.com), [Twilio IP Messaging](https://www.twilio.com/docs/api/ ip-messaging), and other platforms.
+BeeOps is based on Botkit (https://howdy.ai/botkit/) to help system administrators in their daily tasks such as monitoring, management and repetitive tasks, the bot robot has been integrated with [Slack](http://slack.com) (https://api.slack.com/bot-users) initially as interface conversation with the bot but can integrate and work with [Facebook Messenger](http://facebook.com), [Twilio IP Messaging](https://www.twilio.com/docs/api/ ip-messaging), and other platforms.
 
 What can BeeOps do?:
 
@@ -30,7 +30,7 @@ Later we operate with the bot from Slack as if another user.
 
 ## Bot extension
 
-The bot uses "Incoming WebHooks" for communication between systems and the bot itself.
+The bot uses "Incoming WebHooks" (https://api.slack.com/incoming-webhooks) for communication between systems and the bot itself.
 The operation is very basic, it consists of a JSON POST where the parameters and message are definene:
 
 ```bash
